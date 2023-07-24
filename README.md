@@ -1,1 +1,1 @@
-# Tis is Pavlo Tienin's study repository for tests etc.
+# This is Pavlo Tienin's study repository for tests etc.
